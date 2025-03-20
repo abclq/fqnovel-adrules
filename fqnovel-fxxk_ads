@@ -20,3 +20,4 @@
 ||ads*-normal-*.zijieapi.com^$app=com.dragon.read,important
 ||*pstatp*^$app=com.dragon.read,important
 ||dig.bdurl.net^$app=com.dragon.read,important
+@@||*tos*^$app=com.dragon.read,important
