@@ -15,5 +15,8 @@
 ||mssdk.zijieapi.com^$app=com.dragon.read,important
 ||lf3-reading.fqnovelpic.com^$app=com.dragon.read,important
 ||tnc0-aliec2.zijieapi.com^$app=com.dragon.read,important
-||*applog*.fqnovel.com^$app=com.dragon.read,important
+||*applog*.*.*^$app=com.dragon.read,important
 ||feedback-c.zijieapi.com^$app=com.dragon.read,important
+||ads*-normal-*.zijieapi.com^$app=com.dragon.read,important
+||*pstatp*^$app=com.dragon.read,important
+||dig.bdurl.net^$app=com.dragon.read,important
