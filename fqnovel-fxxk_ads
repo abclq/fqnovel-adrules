@@ -1,7 +1,7 @@
 ! Description: 番茄屠龙刀
 ! Homepage: https://github.com/changzhaoCZ/fqnovel-adrules
 ! Title: 番茄炒蛋规则
-! Version: 0.0.1
+! Version: 0.0.2
 ||*static*^$app=com.dragon.read,important
 ||*sealaly*^$app=com.dragon.read,important
 ||*toutiao*^$app=com.dragon.read,important
@@ -29,3 +29,10 @@
 @@||*tos*^$app=com.dragon.read,important
 ! 礼物打赏页面
 @@||*saveu*^$app=com.dragon.read,important
+! 漫画修复
+@@||p3-novel1-sign.byteimg.com^$app=com.dragon.read,important
+@@||p6-novel1-sign.byteimg.com^$app=com.dragon.read,important
+@@||p9-novel1-sign.byteimg.com^$app=com.dragon.read,important
+@@||p3-novel-sign.byteimg.com^$app=com.dragon.read,important
+@@||p6-novel-sign.byteimg.com^$app=com.dragon.read,important
+@@||p9-novel-sign.byteimg.com^$app=com.dragon.read,important
