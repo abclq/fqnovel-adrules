@@ -27,9 +27,17 @@
 ||*qtaeixd*^$app=com.dragon.read,important
 ||*erer*^$app=com.dragon.read,important
 ||*ttweb*^$app=com.dragon.read,important
-
+||*sinfonlinec*^$important,app=com.dragon.read
 ||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
 ||tnc*-*.zijieapi.com^$important,app=com.dragon.read
+||mssdk.volces.com^$app=com.dragon.read,important
+||mon.snssdk.com^$app=com.dragon.read,important
+||toblog.ctobsnssdk.com^$app=com.dragon.read,important
+||mon.zijieapi.com^$app=com.dragon.read,important
+||security.snssdk.com^$app=com.dragon.read,important
+||dig.zjurl.cn^$app=com.dragon.read,important
+||gecko*.zijieapi.com^$app=com.dragon.read,important
+
 
 ! 金币福利页面
 @@||lf-sourcecdn-tos.bytegecko.com^$important,app=com.dragon.read
@@ -39,12 +47,3 @@
 @@||p3-novel1-sign.byteimg.com^$app=com.dragon.read,important
 @@||p6-novel1-sign.byteimg.com^$app=com.dragon.read,important
 @@||p9-novel1-sign.byteimg.com^$app=com.dragon.read,important
-
-
-
-||*sinfonlinec*^$important,app=com.dragon.read
-||tnc3-aliec2.zijieapi.com^$important,app=com.dragon.read
-||183.201.192.209^$important,app=com.dragon.read
-||tnc3-bjlgy.zijieapi.com^$important,app=com.dragon.read
-||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
-||tnc*-*.zijieapi.com^$important,app=com.dragon.read
