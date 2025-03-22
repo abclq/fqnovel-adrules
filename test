@@ -36,6 +36,11 @@
 ||polaris.zijieapi.com^$app=com.dragon.read,important
 ||snssdk.com^$app=com.dragon.read,important
 
+! 我的消息显示
+@@||reading.snssdk.com^$important,app=com.dragon.read
+@@||lf-fe.fqnovelstatic.com^$important,app=com.dragon.read
+
+
 ! 完整排行榜
 @@||lf-normal-gr-sourcecdn.bytegecko.com^$important,app=com.dragon.read
 
