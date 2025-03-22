@@ -1,7 +1,7 @@
 ! Description: 番茄屠龙刀
 ! Homepage: https://github.com/changzhaoCZ/fqnovel-adrules
 ! Title: 番茄炒蛋规则
-! Version: 0.0.3
+! Version: 0.0.4
 ||*static*^$app=com.dragon.read,important
 ||*sealaly*^$app=com.dragon.read,important
 ||*toutiao*^$app=com.dragon.read,important
@@ -18,7 +18,6 @@
 /[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 ||mssdk.zijieapi.com^$app=com.dragon.read,important
 ||lf3-reading.fqnovelpic.com^$app=com.dragon.read,important
-||tnc0-aliec2.zijieapi.com^$app=com.dragon.read,important
 ||*applog*.*.*^$app=com.dragon.read,important
 ||feedback-c.zijieapi.com^$app=com.dragon.read,important
 ||ads*-normal-*.zijieapi.com^$app=com.dragon.read,important
@@ -28,8 +27,6 @@
 ||*erer*^$app=com.dragon.read,important
 ||*ttweb*^$app=com.dragon.read,important
 ||*sinfonlinec*^$important,app=com.dragon.read
-||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
-||tnc*-*.zijieapi.com^$important,app=com.dragon.read
 ||mssdk.volces.com^$app=com.dragon.read,important
 ||mon.snssdk.com^$app=com.dragon.read,important
 ||toblog.ctobsnssdk.com^$app=com.dragon.read,important
@@ -38,6 +35,20 @@
 ||gecko*.zijieapi.com^$app=com.dragon.read,important
 ||polaris.zijieapi.com^$app=com.dragon.read,important
 ||snssdk.com^$app=com.dragon.read,important
+
+! 我的消息显示
+@@||reading.snssdk.com^$important,app=com.dragon.read
+@@||lf-fe.fqnovelstatic.com^$important,app=com.dragon.read
+
+
+! 完整排行榜
+@@||lf-normal-gr-sourcecdn.bytegecko.com^$important,app=com.dragon.read
+
+! 首页误拦截
+! ||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
+
+! 小说评论区屏蔽
+! ||tnc*-*.zijieapi.com^$important,app=com.dragon.read
 
 ! 抖音账号登录
 @@||security.snssdk.com^$important,app=com.dragon.read
