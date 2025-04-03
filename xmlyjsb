@@ -1,0 +1,15 @@
+! TITLE: 珠穆朗玛峰
+! HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
+! Description: 喜马拉雅极速版可能去规则
+! Version: 0.0.1
+
+||sdk-open-phone.getui.com^
+||b-gtc.getui.net^
+||ad.ximalaya.com^
+||c-hzgt2.getui.com^
+||c-gtc.getui.net^
+||log-auth.zztfly.com^
+||log.tbs.qq.com^
+||errlog.umeng.com^
+||imagev2.*.xmcdn.com/storages/*jpg!xmagick=webp$app=com.ximalaya.ting.lite
+||imagev2.xmcdn.com/storages/*jpg!xmagick=webp$app=com.ximalaya.ting.lite
