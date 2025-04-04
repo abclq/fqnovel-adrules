@@ -1,40 +1,40 @@
 ! Description: 番茄屠龙刀
 ! Homepage: https://github.com/changzhaoCZ/fqnovel-adrules
 ! Title: 番茄炒蛋规则
-! Version: 0.0.4
-||*static*^$app=com.dragon.read,important
-||*sealaly*^$app=com.dragon.read,important
-||*toutiao*^$app=com.dragon.read,important
-||*bsgslb*^$app=com.dragon.read,important
-||*misc*^$app=com.dragon.read,important
-||*douyin*^$app=com.dragon.read,important
-||*ecombd*^$app=com.dragon.read,important
-||*byte*^$app=com.dragon.read,important
-||*0kkkkkt*^$app=com.dragon.read,important
-||*cjjd14*^$app=com.dragon.read,important
-||*ietheivaicai*^$app=com.dragon.read,important
-||*stream*^$app=com.dragon.read,important
-||*siomxity*^$app=com.dragon.read,important
-/[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
-||mssdk.zijieapi.com^$app=com.dragon.read,important
-||lf3-reading.fqnovelpic.com^$app=com.dragon.read,important
-||*applog*.*.*^$app=com.dragon.read,important
-||feedback-c.zijieapi.com^$app=com.dragon.read,important
-||ads*-normal-*.zijieapi.com^$app=com.dragon.read,important
-||*pstatp*^$app=com.dragon.read,important
-||dig.bdurl.net^$app=com.dragon.read,important
-||*qtaeixd*^$app=com.dragon.read,important
-||*erer*^$app=com.dragon.read,important
-||*ttweb*^$app=com.dragon.read,important
-||*sinfonlinec*^$important,app=com.dragon.read
-||mssdk.volces.com^$app=com.dragon.read,important
-||mon.snssdk.com^$app=com.dragon.read,important
-||toblog.ctobsnssdk.com^$app=com.dragon.read,important
-||mon.zijieapi.com^$app=com.dragon.read,important
-||dig.zjurl.cn^$app=com.dragon.read,important
-||gecko*.zijieapi.com^$app=com.dragon.read,important
-||polaris.zijieapi.com^$app=com.dragon.read,important
-||snssdk.com^$app=com.dragon.read,important
+! Version: 0.0.5
+||*static*^$app=com.dragon.read,important,redirct=nooptext
+||*sealaly*^$app=com.dragon.read,important,redirct=nooptext
+||*toutiao*^$app=com.dragon.read,important,redirct=nooptext
+||*bsgslb*^$app=com.dragon.read,important,redirct=nooptext
+||*misc*^$app=com.dragon.read,important,redirct=nooptext
+||*douyin*^$app=com.dragon.read,important,redirct=nooptext
+||*ecombd*^$app=com.dragon.read,important,redirct=nooptext
+||*byte*^$app=com.dragon.read,important,redirct=nooptext
+||*0kkkkkt*^$app=com.dragon.read,important,redirct=nooptext
+||*cjjd14*^$app=com.dragon.read,important,redirct=nooptext
+||*ietheivaicai*^$app=com.dragon.read,important,redirct=nooptext
+||*stream*^$app=com.dragon.read,important,redirct=nooptext
+||*siomxity*^$app=com.dragon.read,important,redirct=nooptext
+/[a-zA-Z0-9.-]*-normal\.zijieapi\.com/$redirct=nooptext
+||mssdk.zijieapi.com^$app=com.dragon.read,important,redirct=nooptext
+||lf3-reading.fqnovelpic.com^$app=com.dragon.read,important,redirct=nooptext
+||*applog*.*.*^$app=com.dragon.read,important,redirct=nooptext
+||feedback-c.zijieapi.com^$app=com.dragon.read,important,redirct=nooptext
+||ads*-normal-*.zijieapi.com^$app=com.dragon.read,important,redirct=nooptext
+||*pstatp*^$app=com.dragon.read,important,redirct=nooptext
+||dig.bdurl.net^$app=com.dragon.read,important,redirct=nooptext
+||*qtaeixd*^$app=com.dragon.read,important,redirct=nooptext
+||*erer*^$app=com.dragon.read,important,redirct=nooptext
+||*ttweb*^$app=com.dragon.read,important,redirct=nooptext
+||*sinfonlinec*^$important,app=com.dragon.read,redirct=nooptext
+||mssdk.volces.com^$app=com.dragon.read,important,redirct=nooptext
+||mon.snssdk.com^$app=com.dragon.read,important,redirct=nooptext
+||toblog.ctobsnssdk.com^$app=com.dragon.read,important,redirct=nooptext
+||mon.zijieapi.com^$app=com.dragon.read,important,redirct=nooptext
+||dig.zjurl.cn^$app=com.dragon.read,important,redirct=nooptext
+||gecko*.zijieapi.com^$app=com.dragon.read,important,redirct=nooptext
+||polaris.zijieapi.com^$app=com.dragon.read,important,redirct=nooptext
+||snssdk.com^$app=com.dragon.read,important,redirct=nooptext
 
 ! 我的消息显示
 @@||reading.snssdk.com^$important,app=com.dragon.read
@@ -46,6 +46,7 @@
 
 ! 首页误拦截
 ! ||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
+@@||api5-normal-sinfonlinec.fqnovel.com/reading/bookapi/$important,app=com.dragon.read
 
 ! 小说评论区屏蔽
 ! ||tnc*-*.zijieapi.com^$important,app=com.dragon.read
@@ -61,3 +62,5 @@
 @@||p3-novel1-sign.byteimg.com^$app=com.dragon.read,important
 @@||p6-novel1-sign.byteimg.com^$app=com.dragon.read,important
 @@||p9-novel1-sign.byteimg.com^$app=com.dragon.read,important
+! 出版读物插图修复
+@@||p*-novel-sign.byteimg.com/novel-pic/$important,app=com.dragon.read
