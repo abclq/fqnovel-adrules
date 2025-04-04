@@ -15,7 +15,7 @@
 ||*ietheivaicai*^$app=com.dragon.read,important,redirct=nooptext
 ||*stream*^$app=com.dragon.read,important,redirct=nooptext
 ||*siomxity*^$app=com.dragon.read,important,redirct=nooptext
-/[a-zA-Z0-9.-]*-normal\.zijieapi\.com/$redirct=nooptext
+||*.-*-normal.zijieapi.com^$redirct=nooptext,app=com.dragon.read,important
 ||mssdk.zijieapi.com^$app=com.dragon.read,important,redirct=nooptext
 ||lf3-reading.fqnovelpic.com^$app=com.dragon.read,important,redirct=nooptext
 ||*applog*.*.*^$app=com.dragon.read,important,redirct=nooptext
