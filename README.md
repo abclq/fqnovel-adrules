@@ -6,5 +6,7 @@
 ---
 彻底删除送礼物功能，纯净阅读。
 
+https://raw.githubusercontent.com/changzhaoCZ/fqnovel-adrules/refs/heads/main/fqnovel-fxxk_ads
+
 反馈携带网址链接，没有网址的忽略。
 
