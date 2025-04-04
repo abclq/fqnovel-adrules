@@ -1,5 +1,5 @@
 ! TITLE: 猫抓老鼠规则
-! Description: 七猫屠龙刀【本规则为合成规则，非本人抓取】
+! Description: 七猫屠龙刀
 ! Homepage: https://github.com/changzhaoCZ/fqnovel-adrules
 ! Version: 0.0.1
 
@@ -17,3 +17,6 @@
 ||hmma.baidu.com^
 ||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
+||api-cfg.wtzw.com^$app=com.kmxs.reader
+||sdk.e.qq.com^$app=com.kmxs.reader
+||api-access.pangolin-sdk-toutiao1.com^
