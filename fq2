@@ -1,7 +1,11 @@
+! TITLE: 雪盖火焰山
+! Description: 重构番茄2.0
+! VERSION: 1.0
+! HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
+
+
 ||*^$app=com.dragon.read,important
-@@||p3-novel1-sign.byteimg.com^$app=com.dragon.read,important
-@@||p6-novel1-sign.byteimg.com^$app=com.dragon.read,important
-@@||p9-novel1-sign.byteimg.com^$app=com.dragon.read,important
+@@||p*-novel1-sign.byteimg.com^$app=com.dragon.read,important
 @@||p*-novel-sign.byteimg.com/novel-pic/$important,app=com.dragon.read
 @@||security.snssdk.com^$important,app=com.dragon.read
 @@||api5-normal-sinfonlinec.fqnovel.com/reading/bookapi/$important,app=com.dragon.read
@@ -13,3 +17,4 @@
 @@||p*-reading-sign.fqnovelpic.com^$important,app=com.dragon.read
 @@||fqnovelvod.com^$important,app=com.dragon.read
 @@||api5-normal-sinfonlineb.fqnovel.com^$important,app=com.dragon.read
+@@||lf-sourcecdn-tos.bytegecko.com^$important,app=com.dragon.read
