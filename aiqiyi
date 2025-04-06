@@ -1,0 +1,22 @@
+! TITLE: 电视果
+! DESCRIPTION: 这是我根据乘风大佬的基础二改的，增加了切换剧集时的广告过滤，删除了一条失效规则，适用于网页
+! VERSION: 1.0
+! HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
+
+||mesh.if.iqiyi.com^$script,redirect=noopjs
+iqiyi.com##a[href^="https://ads."]
+iqiyi.com##.black-screen[data-cupid=adblock-blackscreen], .qy-plist-ad
+iqiyi.com##.cupid-panel + div, div[data-adzone],#block-V
+iqiyi.com##+js(set, Object.prototype.blackscreenDuration, 1)
+iqiyi.com##+js(set, QiyiPlayerProphetData.a.data, {})
+m.iqiyi.com##+js(set, Object.prototype.adPlayerId, '')
+t7z.cupid.iqiyi.com
+||video.iqiyi.com/ws$websocket
+||www.iqiyi.com/service-worker.js
+||mesh.if.iqiyi.com/player/pcw/update/commonAppDownloadData^$xhr
+||127.0.0.1^$script,domain=iqiyi.com
+||iqiyipic.com/image/20*_100000$image
+apisgame.iqiyi.com
+static.g.iqiyi.com
+||ssports.iqiyi.com/json/shop/shopInfo
+show.ssports.com
