@@ -1,0 +1,7 @@
+TITLE: 车跑了
+DESCRIPTION: 简单的去除内容，只有两条规则，其他的都被通用规则给杀了。
+VERSION: 1.0
+HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
+
+||cdn.web.chelaile.net.cn^$image,document,app=com.ygkj.chelaile.standard
+||cdn.smartimg.chelaile.net.cn^$image,app=com.ygkj.chelaile.standard
