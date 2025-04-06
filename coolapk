@@ -1,0 +1,6 @@
+TITLE: 小绿车
+DESCRIPTION: 这是解封规则，狗屎酷安有两个域名屏蔽了就会无法评论、点赞、发帖。不过我实测，解封规则应用后打开一次酷安，之后就可以关掉解封规则了正常使用了。
+VERSION: 1.0
+HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
+@@||errnewlog.umeng.com/upload$app=com.coolapk.market
+@@||auni.telecome.cn^$app=com.coolapk.market
