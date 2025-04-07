@@ -1,0 +1,7 @@
+! TITLE: 小破站
+! DESCRIPTION: 开屏广告和封面广告
+! VERSION: 1.0
+! HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
+
+||i*.hdslb.com/bfs/sycp/creative_img/$image,app=tv.danmaku.bili
+||i*.hdslb.com/bfs/svcp/mgk/$image,media,app=tv.danmaku.bili
