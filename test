@@ -42,7 +42,7 @@
 ||sdk-data.ubixioe.com^
 ||tower.ubixioe.com^
 ||sz-maga.biubiu001.com^
-||video-dsp.pddpic.com^$media,redirect=noopmp4-1s,app=com.njh.biubiu
-||sf3-fe-tos.pglstatp-toutiao.com^$image,redirect=2x2-transparent.png,app=com.njh.biubiu
-||n.sigmob.cn^$media,redirect=noopmp4-1s,app=com.njh.biubiu
-||lf3-static.bytednsdoc.com^$image,redirect=2x2-transparent.png,app=com.njh.biubiu
+||video-dsp.pddpic.com^$media,redirect=noopmp4-1s,app=com.njh.biubiu,important
+||sf3-fe-tos.pglstatp-toutiao.com^$image,redirect=2x2-transparent.png,app=com.njh.biubiu,important
+||n.sigmob.cn^$media,redirect=noopmp4-1s,app=com.njh.biubiu,important
+||lf3-static.bytednsdoc.com^$image,redirect=2x2-transparent.png,app=com.njh.biubiu,important
