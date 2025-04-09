@@ -2,6 +2,8 @@
 ! DESCRIPTION: biu speed remove ads
 ! Version: 0.0.4
 ! HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
+!  放行一个巨量广告，否则一个广告都出不来就领不了奖励
+@@||api.qttunion.com^$app=com.njh.biubiu
 
 ||android-sdk.zhangyuyidong.cn^$app=com.njh.biubiu
 ||v5-be-pack.pglstatp-toutiao.com/*.mp3*$media,redirect=noopmp3-0.1s，app=com.njh.biubiu
@@ -68,11 +70,6 @@
 ||nrlx.cn^$app=com.njh.biubiu
 ||umdc.alibabachengdun.com^$app=com.njh.biubiu
 ||c.etoolads.cn^$app=com.njh.biubiu
-
-!  放行一个巨量广告，否则一个广告都出不来就领不了奖励
-@@||api.qttunion.com^$app=com.njh.biubiu
-
-
 ||mobads-logs.baidu.com^$app=com.njh.biubiu
 ||kskwai.com^$app=com.njh.biubiu
 ||sdk-ab-config.aiclk.com^$app=com.njh.biubiu
