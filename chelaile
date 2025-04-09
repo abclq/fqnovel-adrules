@@ -3,6 +3,8 @@
 ! VERSION: 1.1
 ! HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
 
+||web.chelaile.net.cn/news-push/$app=com.ygkj.chelaile.standard
+||image3.chelaile.net.cn/*.gif$app=com.ygkj.chelaile.standard
 ||cdn.web.chelaile.net.cn^$image,document,app=com.ygkj.chelaile.standard
 ||cdn.smartimg.chelaile.net.cn^$image,app=com.ygkj.chelaile.standard
 
