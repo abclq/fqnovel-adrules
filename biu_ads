@@ -1,6 +1,6 @@
 ! TITLE:  biu一口
 ! DESCRIPTION: biu speed remove ads
-! Version: 0.0.3
+! Version: 0.0.4
 ! HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
 
 ||android-sdk.zhangyuyidong.cn^$app=com.njh.biubiu
@@ -70,7 +70,7 @@
 ||c.etoolads.cn^$app=com.njh.biubiu
 
 !  放行一个巨量广告，否则一个广告都出不来就领不了奖励
-!  ||api.qttunion.com^$app=com.njh.biubiu
+@@||api.qttunion.com^$app=com.njh.biubiu
 
 
 ||mobads-logs.baidu.com^$app=com.njh.biubiu
