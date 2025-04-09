@@ -8,11 +8,11 @@
 
 ！ 以下为实验性屏蔽SDK
 
-||umeng.com^
-||getui.com^
-||gepush.com^
-||getui.net^
-||igexin.com^
-||jpush.cn^
-||getui.com^
-||gepush.com^
+||umeng.com^$app=com.ygkj.chelaile.standard
+||getui.com^$app=com.ygkj.chelaile.standard
+||gepush.com^$app=com.ygkj.chelaile.standard
+||getui.net^$app=com.ygkj.chelaile.standard
+||igexin.com^$app=com.ygkj.chelaile.standard
+||jpush.cn^$app=com.ygkj.chelaile.standard
+||getui.com^$app=com.ygkj.chelaile.standard
+||gepush.com^$app=com.ygkj.chelaile.standard
