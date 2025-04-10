@@ -45,7 +45,7 @@
 @@||lf-normal-gr-sourcecdn.bytegecko.com^$important,app=com.dragon.read
 
 ! 首页误拦截
-! @@||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
+@@||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
 @@||api5-normal-sinfonlinec.fqnovel.com/reading/bookapi/$important,app=com.dragon.read
 @@||api5-normal-sinfonline*.fqnovel.com/reading/bookapi/$important,app=com.dragon.read
 ! 小说评论区屏蔽
@@ -65,5 +65,8 @@
 ! 出版读物插图修复
 @@||p*-novel-sign.byteimg.com/novel-pic/$important,app=com.dragon.read
 
+
+
+@@||n98-lf-novel-saveu-ncdn.fqnovelstatic.com^$important,app=com.dragon.read
 
 
