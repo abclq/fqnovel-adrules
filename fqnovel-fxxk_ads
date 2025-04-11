@@ -1,7 +1,7 @@
 ! Description: 番茄屠龙刀
 ! Homepage: https://github.com/changzhaoCZ/fqnovel-adrules
 ! Title: 番茄炒蛋规则
-! Version: 0.0.6
+! Version: 0.0.7
 ||*static*^$app=com.dragon.read,important
 ||*sealaly*^$app=com.dragon.read,important
 ||*toutiao*^$app=com.dragon.read,important
@@ -35,6 +35,14 @@
 ||gecko*.zijieapi.com^$app=com.dragon.read,important
 ||polaris.zijieapi.com^$app=com.dragon.read,important
 ||snssdk.com^$app=com.dragon.read,important
+
+! 尝试修复新添加在阅读界面的短剧
+
+||lf*-webcast-cdn-tos-ncdn.bytegecko.com^$app=com.dragon.read,important
+||bsync3-normal-hl.zijieapi.com^$app=com.dragon.read,important
+||p*.douyinpic.com^$app=com.dragon.read,important
+||ecombdimg.com^$app=com.dragon.read,important
+||mon*-misc-*.fqnovel.com^$app=com.dragon.read,important
 
 ! 我的消息显示
 @@||reading.snssdk.com^$important,app=com.dragon.read
