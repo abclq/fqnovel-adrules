@@ -3,20 +3,20 @@
 ! Homepage: https://github.com/changzhaoCZ/fqnovel-adrules
 ! Version: 0.0.2
 
-||audid.umeng.com^
-||ccs.umeng.com^
-||pro.bugly.qq.com^
-||msg.umengcloud.com^
-||cpc-service-square.aiclk.com^
-||sdk-ab-config.aiclk.com^
-||cdn.aiclk.com^
-||update0.aiclk.com^
-||logrcv.aiclk.com^
-||tracelog-debug.aiclk.com^
-||cn-tk.anythinktech.com^
-||hmma.baidu.com^
-||ulogs.umeng.com^
-||ulogs.umengcloud.com^
+||audid.umeng.com^$app=com.kmxs.reader
+||ccs.umeng.com^$app=com.kmxs.reader
+||pro.bugly.qq.com^$app=com.kmxs.reader
+||msg.umengcloud.com^$app=com.kmxs.reader
+||cpc-service-square.aiclk.com^$app=com.kmxs.reader
+||sdk-ab-config.aiclk.com^$app=com.kmxs.reader
+||cdn.aiclk.com^$app=com.kmxs.reader
+||update0.aiclk.com^$app=com.kmxs.reader
+||logrcv.aiclk.com^$app=com.kmxs.reader
+||tracelog-debug.aiclk.com^$app=com.kmxs.reader
+||cn-tk.anythinktech.com^$app=com.kmxs.reader
+||hmma.baidu.com^$app=com.kmxs.reader
+||ulogs.umeng.com^$app=com.kmxs.reader
+||ulogs.umengcloud.com^$app=com.kmxs.reader
 ||api-cfg.wtzw.com^$app=com.kmxs.reader
 ||sdk.e.qq.com^$app=com.kmxs.reader
-||api-access.pangolin-sdk-toutiao1.com^
+||api-access.pangolin-sdk-toutiao1.com^$app=com.kmxs.reader
