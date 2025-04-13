@@ -16,5 +16,5 @@
 @@||tnc*-*.zijieapi.com^$important,app=com.dragon.read
 @@||p*-reading-sign.fqnovelpic.com^$important,app=com.dragon.read
 @@||fqnovelvod.com^$important,app=com.dragon.read
-@@||api5-normal-sinfonlineb.fqnovel.com^$important,app=com.dragon.read
+@@||api*-normal-sinfonline*.fqnovel.com^$important,app=com.dragon.read
 @@||lf-sourcecdn-tos.bytegecko.com^$important,app=com.dragon.read
