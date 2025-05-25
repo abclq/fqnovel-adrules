@@ -5,7 +5,7 @@
 
 
 ||*^$app=com.dragon.read,important
-||ads5-normal-hl.zijieapi.com^$all,app=com.dragon.read
+||ads*-normal-*.zijieapi.com^$all,app=com.dragon.read
 @@||p*-novel1-sign.byteimg.com^$app=com.dragon.read,important
 @@||p*-novel-sign.byteimg.com^$important,app=com.dragon.read
 @@||security.snssdk.com^$important,app=com.dragon.read
