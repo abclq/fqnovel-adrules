@@ -7,7 +7,7 @@
 ---
 彻底删除送礼物功能，纯净阅读。
 
-[https://github.com/changzhaoCZ/fqnovel-adrules/raw/refs/heads/main/fq2]
+https://gcore.jsdelivr.net/gh/changzhaoCZ/fqnovel-adrules@refs/heads/main/fq2.txt
 
 反馈携带网址链接，没有网址的忽略。
 
