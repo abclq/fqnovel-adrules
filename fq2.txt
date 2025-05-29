@@ -4,8 +4,8 @@
 ! HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
 
 
-||*^$app=com.dragon.read,important
-||ads*-normal-*.zijieapi.com^$all,app=com.dragon.read
+||*^$all,app=com.dragon.read,important
+@@||n98-lf-novel-saveu-ncdn.fqnovelstatic.com^$app=com.dragon.read,important
 @@||p*-novel1-sign.byteimg.com^$app=com.dragon.read,important
 @@||p*-novel-sign.byteimg.com^$important,app=com.dragon.read
 @@||security.snssdk.com^$important,app=com.dragon.read
