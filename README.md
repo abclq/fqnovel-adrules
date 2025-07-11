@@ -6,7 +6,7 @@
 ---
 ## 已知bug： 有界面打不开或登录不了的，多点两次或刷新两次就好
 
-https://gcore.jsdelivr.net/gh/changzhaoCZ/fqnovel-adrules@refs/heads/main/fq2.txt
+https://cdn.jsdelivr.net/gh/changzhaoCZ/fqnovel-adrules@refs/heads/main/fq2.txt
 
 反馈携带网址链接，没有网址的忽略。
 
