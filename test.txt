@@ -14,4 +14,6 @@
 @@||lf-sourcecdn-tos.bytegecko.com^$important,app=com.dragon.read
 @@||*-novelapp.fqnovelvod.com^$important,app=com.dragon.read
 @@||*-fq-tts.fqnovelvod.com^$important,app=com.dragon.read
-@@||v*-reading-video.fqnovelvod.com^$important,app=com.dragon.read
+@@||v3-reading-video.fqnovelvod.com^$important,app=com.dragon.read
+@@||v5-reading-video.fqnovelvod.com^$important,app=com.dragon.read
+@@||v7-reading-video.fqnovelvod.com^$important,app=com.dragon.read
