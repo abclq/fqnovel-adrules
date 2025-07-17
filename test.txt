@@ -17,3 +17,4 @@
 @@||v3-reading-video.fqnovelvod.com^$important,app=com.dragon.read
 @@||v5-reading-video.fqnovelvod.com^$important,app=com.dragon.read
 @@||v7-reading-video.fqnovelvod.com^$important,app=com.dragon.read
+@@||v11-reading-video.fqnovelvod.com^$important,app=com.dragon.read
