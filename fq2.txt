@@ -14,7 +14,7 @@
 @@||lf-fe.fqnovelstatic.com^$important,app=com.dragon.read
 @@||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
 @@||tnc*-*.zijieapi.com^$important,app=com.dragon.read
-@@||p*-reading-sign.fqnovelpic.com^$important,app=com.dragon.read
+! @@||p*-reading-sign.fqnovelpic.com^$important,app=com.dragon.read
 @@||api*-normal-sinfonline*.fqnovel.com^$important,app=com.dragon.read
 @@||lf-sourcecdn-tos.bytegecko.com^$important,app=com.dragon.read
 @@||*-novelapp.fqnovelvod.com^$important,app=com.dragon.read
