@@ -5,6 +5,9 @@
 
 ||*^$all,app=com.dragon.read
 
+! 自己的历史评论中的图片
+@@||p*-reading-private.fqnovel.com^$app=com.dragon.read
+
 
 @@||lf*-reading.fqnovelstatic.com^$app=com.dragon.read
 @@||api*-normal.fqnovel.com^$app=com.dragon.read
