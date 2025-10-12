@@ -1,7 +1,11 @@
-! TITLE: 番茄酱
-! Description: 重构番茄3.0
-! VERSION: 3.0
-! HOMEPAGE: https://github.com/changzhaoCZ/fqnovel-adrules
+! Title: 番茄酱
+! Description: 重构番茄3.0，适配最新6.9.1.32
+! Version: 3.0
+! Homepage: https://github.com/changzhaoCZ/fqnovel-adrules
+! Time: 2025/10/13 
+
+
+
 
 ||*^$all,app=com.dragon.read
 
