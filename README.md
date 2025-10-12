@@ -7,7 +7,9 @@
 ---
 ## 已知bug： 有界面打不开或登录不了的，多点两次或刷新两次就好
 
-https://cdn.jsdelivr.net/gh/changzhaoCZ/fqnovel-adrules@refs/heads/main/fq.txt
 
+镜像链接任意一个即可
+https://cdn.jsdelivr.net/gh/changzhaoCZ/fqnovel-adrules@refs/heads/main/fq.txt
+https://ghproxy.net/https://raw.githubusercontent.com/changzhaoCZ/fqnovel-adrules/refs/heads/main/fq.txt
 反馈携带网址链接，没有网址的忽略。
 
