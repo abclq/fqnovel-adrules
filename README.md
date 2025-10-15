@@ -9,7 +9,13 @@
 
 
 镜像链接任意一个即可
-链接一[查看链接](https://cdn.jsdelivr.net/gh/changzhaoCZ/fqnovel-adrules@refs/heads/main/fq.txt)
-链接二[查看链接](https://ghproxy.net/https://raw.githubusercontent.com/changzhaoCZ/fqnovel-adrules/refs/heads/main/fq.txt)
+链接一
+[查看链接](https://cdn.jsdelivr.net/gh/changzhaoCZ/fqnovel-adrules@refs/heads/main/fq.txt)
+
+
+链接二
+[查看链接](https://ghproxy.net/https://raw.githubusercontent.com/changzhaoCZ/fqnovel-adrules/refs/heads/main/fq.txt)
+
+
 反馈携带网址链接，没有网址的忽略。
 
