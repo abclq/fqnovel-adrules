@@ -35,10 +35,10 @@
 @@||lf-fe.fqnovelstatic.com^$app=com.dragon.read
 
 ! 评论
-@@||tnc*-*.zijieapi.com^$app=com.dragon.read
+! @@||tnc*-*.zijieapi.com^$app=com.dragon.read
 
 ! 忘了，好像是消息图片
-@@||p*-reading-sign.fqnovelpic.com^$app=com.dragon.read
+! @@||p*-reading-sign.fqnovelpic.com^$app=com.dragon.read
 
 ! 首页
 @@||api*-normal-sinfonline*.fqnovel.com^$app=com.dragon.read
